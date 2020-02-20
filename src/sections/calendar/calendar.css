@@ -1,0 +1,22 @@
+.calendar-container {
+    background-color: white;
+    width           : 650px;
+    height          : 400px;
+    justify-content : space-around;
+    display         : flex;
+}
+
+.day-frame {
+
+    background-color: black;
+    color           : white;
+    font-size       : 18px;
+
+
+}
+
+th {
+    width: 100px;
+    height: 50px;
+    
+}
