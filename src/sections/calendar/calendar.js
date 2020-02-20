@@ -21,8 +21,7 @@ const Calendar = () => {
                             <th>{card.day}</th>
                         )}
                     </tr>
-                    <tr><div className="line-divisor"></div></tr>
-
+                    
                 </table>
 
 
