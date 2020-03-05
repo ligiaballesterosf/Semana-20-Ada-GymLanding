@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  margin: 0 0 31px 0;
+  margin     : 0 0 31px 0;
   padding-top: 50px;
 }
 
@@ -20,4 +20,19 @@ h1 {
   align-items      : center;
   flex-direction   : column;
 
+}
+
+.cards-container {
+  display         : flex;
+  flex-direction  : row;
+  width           :
+   600px;
+  background-color: black;
+  color           : white;
+  justify-content : space-between;
+  font-size       : 10px;
+}
+
+h2 {
+  padding: 0 10px 0 10px;
 }
